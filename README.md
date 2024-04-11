@@ -8,7 +8,7 @@ Created in less than 24 hours at the Anthropic Hackathon in London, we even got 
 This is my main gig! Trying to improve the technology onboard buses, starting with an all in one software and hardware solution for audio and visual announcement's on buses across the UK. 
 
 ### [FLEXSTA](https://flexsta.com/)
-Solving my own problems! Over the last few years I've often found myself working in many inconvenient locations, and I really enjoy having an extra screen to work from, so I got a portable monitor but there weren't any portable monitor stands to go with the displays, so with the power of reddit and my eye for design I came up with several iterations to get to my final solution. I've got a waitlist of nearly 100 people (all from one reddit post) and I'm hoping to launch the product soon, once final details of supply lines are sorted. It's a great example of "solve your own problems" it makes your journey to creating value much easier because you are your own critique, customer and consumer!
+Solving my own problems! Over the last few years I've often found myself working in many inconvenient locations, and I really enjoy having an extra screen to work from, so I got a portable monitor but there weren't any portable monitor stands to go with the displays, so with the power of reddit and my eye for design I came up with several iterations to get to my final solution. I've got it to profitable and now working on improving SEO and content marketing! It's a great example of "solve your own problems" it makes your journey to creating value much easier because you are your own critique, customer and consumer!
 
 ## ⚡ Past side projects:
 Mostly because they interested me!
