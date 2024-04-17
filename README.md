@@ -23,8 +23,6 @@ I'd been playing around with TTS language models, such as tortoiseTTS and I foun
 I worked with high schools to develop a tool that utilizes job demand data, individual skills, and interests to match students with suitable careers and pathways to consider.
 Existing solutions are outdated, inaccurate, and impersonal. It’s something that I’d have greatly appreciated when I was at school, instead of having several different career pivots before realizing the technology products with fast paced and adaptive teams were my bread and butter. Understanding users and creating user centric products (whether that's for public transit agencies for fast growing startups).
 
-### [Art de Flore](artdeflore.com)
-I used to draw alot when I was younger, I especially enjoyed drawing buildings. I also liked taking photographs, and naturally I would often find myself drawing my photographs then I realised, wow these drawings are so similar to these photographs, why not merge them together? There was born my photograph-drawing merge artwork! I ended up selling many pieces as my side hustle while in my last few years of school, to friends parents and to customers at local cafes and restaurants. I recently decided to "republish" my art and make it accessible to the general public.
 
 ## 📫 How to reach me: 
 If you've got any feedback, questions or would like to collaborate - contact me  at fhinder (at) gmail dot com
